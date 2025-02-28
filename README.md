@@ -16,7 +16,7 @@ A collection of SQL concepts, examples, and interview questions to help with tec
 
 | Keyword/Concept | Usage | Example |
 |----------------|-------|---------|
-|                |       |         |
+| Giveslength     length        |       |         |
 |                |       |         |
 |                |       |         |
 
